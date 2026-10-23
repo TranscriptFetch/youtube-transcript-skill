@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TranscriptFetch/youtube-transcript-skill/main/assets/logo.png" alt="TranscriptFetch" width="84" height="84" />
+</p>
+
 # YouTube Transcript Skill
 
 An agent skill that gives Claude Code, Codex, Cursor and other AI agents YouTube transcripts, through the [TranscriptFetch](https://transcriptfetch.com/?utm_source=github&utm_medium=skill&utm_campaign=youtube-transcript-skill) API.
